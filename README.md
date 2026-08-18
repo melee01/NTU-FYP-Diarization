@@ -4,7 +4,7 @@
 ### Project Title: Streaming: Who speak when task (Diarization)
 ### Supervisor: Prof Chng Eng Siong and Dr Rao Wei
 
-### Start Date: 10 Aug 2026
+### Start Date:
 ### End Date: 
 
 
